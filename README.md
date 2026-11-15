@@ -1,7 +1,13 @@
-# Adenike Ojamomi — MIT 8103
+# Sunny Bank Basic Accounts
 
-Student ID: 301915595
+Adenike Ojamomi · Student ID 301915595
 
-Sunny Bank Ltd is a commercial bank that provides basic banking services to customers.
+The portfolio uses fictional records for Sunny Bank Basic Accounts.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Ojamomi_Adenike_301915595_FinalSummary.md) · [PDF](Ojamomi_Adenike_301915595_FinalSummary.pdf)
